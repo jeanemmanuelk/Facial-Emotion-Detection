@@ -23,11 +23,6 @@ The dataset used consists of 48x48 pixel grayscale images of faces, with the fac
 2. Install the required libraries using `pip install -r requirements.txt`.
 3. Download the FER2013 dataset from Kaggle and place it in the `data/` directory.
 
-## Usage
-
-1. Run `python train.py` to train the model.
-2. Use `python predict.py` to make predictions on new data.
-
 ## Model Architecture
 
 ### CNN Model
