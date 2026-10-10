@@ -51,8 +51,8 @@ The dataset used consists of 48x48 pixel grayscale images of faces, with the fac
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/jeanemmanuelk/Facial-Emotion-Detection/issues) if you want to contribute.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
